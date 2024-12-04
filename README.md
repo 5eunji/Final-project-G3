@@ -1,6 +1,6 @@
 # 💞 AI 코딩 활용 영어수업 과제 만들기 
-## Professor Junkyu Lee (HUFS)
-### 2024년 6월 20일 17:00-18:00
+## 오은지, 정하은, 윤세희
+### 2024년 12월 11일
 + [PPT](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/AI%EC%BD%94%EB%94%A9%EC%98%81%EC%96%B4%EA%B3%BC%EC%A0%9C_%EC%9D%B4%EC%A4%80%EA%B7%9C_20June2024.pdf)
 + [QR code](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/myqrcode.png)
     
