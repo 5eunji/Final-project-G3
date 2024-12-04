@@ -1,43 +1,26 @@
 # 💞 AI 코딩 활용 영어수업 과제 만들기 
 ## 오은지, 정하은, 윤세희
 ### 2024년 12월 11일
-+ [PPT](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/AI%EC%BD%94%EB%94%A9%EC%98%81%EC%96%B4%EA%B3%BC%EC%A0%9C_%EC%9D%B4%EC%A4%80%EA%B7%9C_20June2024.pdf)
-+ [QR code](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/myqrcode.png)
-    
-### Sample
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
-+ [QR code generator](https://mrkim21.github.io/appfolder/qrcode.html)
 
-## special thanks to Dr. Miran Kim (GNU) and her students
-
-# ⚔️ Sample lessons  
-+ Overview of the project: This project aims to teach middle school students using the story "The Guardian's Secret," with the primary method of making learning interactive through a code-based application developed using Gradio and Python. This approach focuses on enhancing listening and writing skills.
-
-## Useful Links
+## Useful Links 삭제 예정 참고용 
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
 
-## Lesson Plan
-
+## Lesson Plan 세희쌤 부탁해요 
+그리고 이미지 하나 넣음 될 듯 gpt 따오기
 ![Final Banner](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The_final_banner3.jpg?raw=true)
 
-## Overview
+## Overview 저희는 Sentence Builder이니까 쓰기와 문법 기반이려나?
 This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
 
-## Objectives
-- 📚 Improve vocabulary knowledge
-- 🎧 Enhance listening comprehension
-- 🧩 Develop sequencing skills
-- ✍️ Foster creative writing abilities
+## Objectives 우리꺼에 맞게 수정완료 
+📚 Build vocabulary by constructing and expanding sentences.
+🧠 Improve understanding of sentence structure.
+✅ Enhance grammar accuracy through sentence building.
+✍️ Develop creative writing skills using expanded sentences.
+🎙️ Foster listening and speaking through sentence-based activities.
 
-## Tools Used
 
-**Gradio:** For creating interactive web apps.
-
-**Python:** Programming language for implementing Gradio apps.
-
-**Hugging Face:** A platform providing a wide range of natural language processing (NLP) tools and models.
-
-## Teaching Procedure (55 minutes in total)
+## Teaching Procedure (55 minutes in total)  수정 필요 
 
 ### 1. 🎧 Listening Activity (35 minutes)
 
@@ -105,20 +88,20 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - 💬 Encourage students to actively participate and ask questions throughout the lesson.
 - ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
 
-## Lesson Materials
+## Lesson Materials 로미오와 줄리엣에 맞게 하면 되는데 자료는 있지만 삽입은 어떻게 하지? 지금 text 이미지 사진북 만들어야함 
 
-### Story Title: The Guardian's Secret 
+### Story Title: The Guardian's Secret  
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
-**<Synopsis>**
+**<Synopsis>** 개요작성 gpt 돌리기
 In Echo Ridge, a mountain village enriched with legends of the "Guardian of the Glen" eagle, adventurous Alex discovers an ancient map in a library book that hints at a hidden treasure in Whispering Hollow cave. Along with friends Mia and Sam, Alex embarks on a challenging expedition through dense forests and rugged terrain. Upon reaching the cave, they find not gold, but historical artifacts including a statuette of the Guardian eagle, which they donate to the local museum. This discovery not only cements their status as local heroes but revitalizes the village's interest in its own lore and history, continuing the legend of the Guardian as a symbol of adventure and cultural heritage.
 
 
-## Huggingface
+## Huggingface  각각 링크 삽입 필요
 
 <div align=center>
    
