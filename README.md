@@ -87,13 +87,13 @@ This lesson plan is designed for middle school students and focuses on enhancing
 - 💬 Encourage students to actively participate and ask questions throughout the lesson.
 - ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
 
-## Lesson Materials 로미오와 줄리엣에 맞게 하면 되는데 자료는 있지만 삽입은 어떻게 하지?(텍스트 삽입 완료 했습니다 -하은) 지금 text 이미지 사진북 만들어야함 
+## Lesson Materials 로미오와 줄리엣에 맞게 하면 되는데 자료는 있지만 삽입은 어떻게 하지?(텍스트 삽입 완료 했습니다 -하은)
 
 ### Story Title: Oh, Romeo Romeo! 
 + [text link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo_text!.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
-#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
+#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙 text 이미지 사진북 만들어야함 -> 하은 토요일 오전까지 해놓겠습니다 
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
 **<Synopsis>**
