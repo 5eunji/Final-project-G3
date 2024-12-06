@@ -96,7 +96,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙 text 이미지 사진북 만들어야함 -> 하은 토요일 오전까지 해놓겠습니다 
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
-**<Synopsis>**
+**<Synopsis>** 수정 완료했습니다 - 하은
 In Verona, an Italian city torn apart by the feud between two powerful families, the Montagues and the Capulets, young Romeo and Juliet's love story unfolds as a timeless tale of passion and tragedy. While attending a masquerade ball hosted by the Capulets, Romeo Montague secretly infiltrates the event and encounters Juliet Capulet. Instantly captivated by each other, their love blossoms despite the fierce hatred between their families. Underneath Juliet's window, the two confess their love and vow to marry in secret. They pledge to defy the boundaries set by their families, driven by their devotion to one another. However, their secret union sets off a chain of events that deepens the animosity between the Montagues and the Capulets. As the story progresses, misunderstandings and cruel twists of fate lead to heartbreak and loss, solidifying their love as a symbol of enduring passion and the devastating cost of division. Their story, one of Shakespeare’s greatest tragedies, continues to captivate audiences as a powerful reminder of love’s triumph and the dangers of hatred.
 
 
