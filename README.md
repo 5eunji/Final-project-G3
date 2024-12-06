@@ -7,7 +7,7 @@
 
 ## Lesson Plan 발표와 같이 레슨플랜 담당자 필요 
 그리고 이미지 하나 넣음 될 듯 gpt 따오기
-![Final Banner](https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/The_final_banner3.jpg?raw=true)
+![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
 
 ## Overview 저희는 Sentence Builder이니까 쓰기와 문법 기반이려나?
 This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
