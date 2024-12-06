@@ -5,10 +5,10 @@
 ## Useful Links 삭제 예정 참고용 
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
 
-## Lesson Plan 발표와 같이 레슨플랜 담당자 필요 
+## Lesson Plan 
 ![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
 
-## Overview(수정 완료 했습니다)
+## Overview
 This lesson plan is designed for middle school students and focuses on enhancing writing and grammar skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
 
 ## Objectives 우리꺼에 맞게 수정완료 
