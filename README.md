@@ -90,7 +90,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ## Lesson Materials 로미오와 줄리엣에 맞게 하면 되는데 자료는 있지만 삽입은 어떻게 하지? 지금 text 이미지 사진북 만들어야함 
 
-### Story Title: The Guardian's Secret  
+### Story Title: Oh, Romeo Romeo!  
 + [text link](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt)
 + [image link](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/Story02.png)
 
