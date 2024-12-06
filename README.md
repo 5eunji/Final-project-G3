@@ -8,8 +8,8 @@
 ## Lesson Plan 발표와 같이 레슨플랜 담당자 필요 
 ![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
 
-## Overview 저희는 Sentence Builder이니까 쓰기와 문법 기반이려나?
-This lesson plan is designed for middle school students and focuses on enhancing listening and writing skills through interactive activities using Gradio and Python coding. The lesson is based on the story "The Guardian's Secret."
+## Overview(수정 완료 했습니다)
+This lesson plan is designed for middle school students and focuses on enhancing writing and grammar skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
 
 ## Objectives 우리꺼에 맞게 수정완료 
 📚 Build vocabulary by constructing and expanding sentences.
