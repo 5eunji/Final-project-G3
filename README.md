@@ -5,34 +5,40 @@
 ## Useful Links 삭제 예정 참고용 
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
 
-## Lesson Plan - 로미오와 줄리엣 구문 이용해서 리스닝, 스피킹 위주, 학생:대화문 직접 듣고 앱 이용해서 녹음해보고 롤플레이형식 직접하기
+## Lesson Plan 로미오와 줄리엣 구문 이용해서 리스닝, 스피킹 위주, 학생:대화문 직접 듣고 앱 이용해서 녹음해보고 롤플레이형식 직접하기
 ![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
 
 ## Overview
 This lesson plan is designed for middle school students and focuses on enhancing writing and grammar skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
 
 ## Objectives 우리꺼에 맞게 수정완료 
-📚 Build vocabulary by constructing and expanding sentences.
-🧠 Improve understanding of sentence structure.
-✅ Enhance grammar accuracy through sentence building.
-✍️ Develop creative writing skills using expanded sentences.
-🎙️ Foster listening and speaking through sentence-based activities.
+📚 Introduce and discuss key vocabulary from the story to enhance students’ understanding of the text.
+🧠 Develop listening comprehension skills through TTS-generated narration and character dialogues.
+✅ Improve speaking and pronunciation skills by practicing and recording role-play dialogues.
+🎙️ Foster students’ ability to express emotions and intonation through character-based speaking activities
 
 
-Teaching Procedure (55 minutes in total)
+
+##Teaching Procedure (55 minutes in total)
+
 1. 🎧 Listening Activity (35 minutes)
+2. 
 (1) Pre-Listening Activity: Learning New Words (10 minutes)
+
 🎯 Objective: Introduce and discuss new vocabulary from the story.
 
 📱 Activity:
+
 Use the Gradio Wordcloud App to generate a word cloud of key vocabulary from the story.
 Students analyze the word cloud to predict the story's content.
 
 👨‍🏫 Teacher's Role:
+
 Project the word cloud and guide a discussion on the words.
 Explain meanings, use examples, and answer questions.
 
 👦👧 Students' Role:
+
 Discuss predictions based on the word cloud.
 Take notes and ask about unfamiliar vocabulary.
 
