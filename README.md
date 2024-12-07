@@ -5,7 +5,7 @@
 ## Useful Links 삭제 예정 참고용 
 |💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
 
-## Lesson Plan 
+## Lesson Plan - 로미오와 줄리엣 구문 이용해서 리스닝, 스피킹 위주, 학생:대화문 직접 듣고 앱 이용해서 녹음해보고 롤플레이형식 직접하기
 ![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
 
 ## Overview
@@ -19,66 +19,81 @@ This lesson plan is designed for middle school students and focuses on enhancing
 🎙️ Foster listening and speaking through sentence-based activities.
 
 
-## Teaching Procedure (55 minutes in total)  수정 필요 
+Teaching Procedure (55 minutes in total)
+1. 🎧 Listening Activity (35 minutes)
+(1) Pre-Listening Activity: Learning New Words (10 minutes)
+🎯 Objective: Introduce and discuss new vocabulary from the story.
 
-### 1. 🎧 Listening Activity (35 minutes)
+📱 Activity:
+Use the Gradio Wordcloud App to generate a word cloud of key vocabulary from the story.
+Students analyze the word cloud to predict the story's content.
 
-#### (1) Pre-Listening Activity: Learning New Words (10 minutes)
+👨‍🏫 Teacher's Role:
+Project the word cloud and guide a discussion on the words.
+Explain meanings, use examples, and answer questions.
 
-**🎯Objective:** Introduce and discuss new vocabulary from the story.
+👦👧 Students' Role:
+Discuss predictions based on the word cloud.
+Take notes and ask about unfamiliar vocabulary.
 
-**📱Activity:** Use the Gradio Wordcloud App to create a word cloud highlighting frequent words from the text.
+(2) Main Listening Activity: TTS Listening (15 minutes)
+🎯 Objective: Improve listening comprehension and engagement.
 
-**👨‍🏫Teacher's Role:** Display the word cloud on a projector and discuss the highlighted words with students. Explain meanings, provide examples, and answer any questions.
+📱 Activity:
+Play a TTS-generated narration of the story using pyttsx3 or an external TTS library.
+Provide a handout with comprehension questions for students to answer as they listen.
 
-**👦👧Students' Role:** Participate in the discussion, take notes on new vocabulary, and ask questions about any unfamiliar words.
+👨‍🏫 Teacher's Role:
+Play the TTS narration.
+Pause after each section to ask comprehension questions and ensure understanding.
 
-#### (2) While-Listening Activity (15 minutes)
+👦👧 Students' Role:
+Listen actively and complete the comprehension questions.
 
-**🎯Objective:** Enhance listening comprehension and focus on past tense verbs.
+(3) Pair Listening: TTS Dialogues (10 minutes)
+🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
 
-**📱Activity:**
-- Use the Gradio TTS App to convert the text to an audio file. Play the audio for students.
-- Provide a cloze exercise using the Gradio Cloze Question App, focusing on past tense verbs. Students fill in the blanks while listening.
+📱 Activity:
+Use TTS to play dialogue between Romeo and Juliet.
+Focus on tone, intonation, and expression.
 
-**👨‍🏫Teacher's Role:**
-- Play the audio file and monitor students' progress.
-- Distribute the cloze exercise and guide students through it.
-- Assist students in using the Verb Base Form App.
+👨‍🏫 Teacher's Role:
+Play the TTS dialogues.
+Discuss how the characters’ emotions are conveyed through tone and intonation.
 
-**👦👧Students' Role:**
-- Listen to the audio and complete the cloze exercise by filling in the blanks with past tense verbs.
-- Use the Verb Base Form App to check their answers and learn the base forms of the verbs.
+👦👧 Students' Role:
+Listen carefully and discuss the emotions of the characters.
 
-#### (3) After-Listening Activity: Sequence the Story (10 minutes)
+2. 🎙 Speaking Activity (20 minutes)
+(1) Role-Playing Activity: Recreate the Scene (10 minutes)
+🎯 Objective: Enhance speaking skills and practice expression through role-playing.
 
-**🎯Objective:** Develop sequencing skills by arranging images in the correct order.
+📱 Activity:
+Students use a recording app (e.g., Gradio Audio Recorder) to record their own dialogue as Romeo and Juliet.
+Encourage them to mimic the tone and emotion from the TTS examples.
 
-**📱Activity:** Use the Gradio Image Sequencing App to provide images related to the story. Students arrange the images in the correct sequence based on what they heard.
+👨‍🏫 Teacher's Role:
+Assign roles and help students practice lines.
+Provide constructive feedback on pronunciation and intonation.
 
-**👨‍🏫Teacher's Role:**
-- Display the images using the Image Sequencing App.
-- Guide students through the activity, asking them to justify their choices.
+👦👧 Students' Role:
+Practice and record their role-play.
+Listen to their recordings and refine their delivery.
 
-**👦👧Students' Role:**
-- Work individually or in pairs to arrange the images in the correct sequence.
-- Discuss and explain their reasoning for the order they chose.
+(2) Feedback and Sharing (10 minutes)
+🎯 Objective: Reflect on speaking performance and improve further.
 
-### 2. ✍️ Writing Activity (20 minutes)
+📱 Activity:
+Play back the recorded dialogues in class.
+Discuss areas for improvement and celebrate strong performances.
 
-**🎯Objective:** Foster creative writing and check for grammatical accuracy.
+👨‍🏫 Teacher's Role:
+Facilitate discussion and provide specific feedback.
+Highlight good examples of expression and clarity.
 
-**📱Activity:**
-- Provide the following writing prompt: "In the story, Alex and his friends discovered an ancient treasure in Whispering Hollow and decided to donate the artifacts to the local museum. In the past, did you have a similar experience where you found something valuable or interesting? Tell the story. Describe what you found, what you did with it, and how you felt about your decision. Remember to use past tense in your writing. Provide reasons for your opinions and try to relate them to the values and lessons from the story."
-- Use the Gradio Writing Checker App to allow students to check their writing for errors.
-
-**👨‍🏫Teacher's Role:**
-- Introduce the writing prompt and explain the task.
-- Assist students in using the Writing Checker App to review and correct their writing.
-
-**👦👧Students' Role:**
-- Write a response to the prompt.
-- Use the Writing Checker App to check their writing and make corrections based on the feedback.
+👦👧 Students' Role:
+Share recordings and reflect on feedback.
+Set goals for future speaking improvement.
 
 ### Notes for Teachers
 
