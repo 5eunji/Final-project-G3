@@ -5,132 +5,48 @@
 ## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
 ![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
 
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyPNo7RwwtdvxJiqvLZWWktQ",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    },
-    "accelerator": "GPU"
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/junkyuhufs/2024Fall_AI_AIDT/blob/main/gTTS.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "PpP4TqVQsz56"
-      },
-      "outputs": [],
-      "source": [
-        "!pip install gTTS"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "[language code](https://developers.google.com/admin-sdk/directory/v1/languages)"
-      ],
-      "metadata": {
-        "id": "hWSJOP6FyuMy"
-      }
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "from gtts import gTTS\n",
-        "\n",
-        "text_to_say = \"This is a sample piece of text read by gTTS.\"\n",
-        "\n",
-        "language = \"en\"\n",
-        "\n",
-        "gtts_object = gTTS (text = text_to_say,\n",
-        "                    lang = language,\n",
-        "                    slow = False)\n",
-        "\n",
-        "gtts_object.save(\"/content/eng_sample.mp4\")"
-      ],
-      "metadata": {
-        "id": "OB6ezuxgtHdK"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "from IPython.display import Audio\n",
-        "Audio(\"/content/eng_sample.mp4\")"
-      ],
-      "metadata": {
-        "id": "ONY45CFzvBVD"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "[local accent code](https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang)"
-      ],
-      "metadata": {
-        "id": "FZ0z63EuxlTk"
-      }
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "from gtts import gTTS\n",
-        "\n",
-        "text_to_say = \"This is a sample piece of text read by gTTS.\"\n",
-        "\n",
-        "gtts_object = gTTS (text = text_to_say,\n",
-        "                    lang = 'en',\n",
-        "                    tld = 'com.au',\n",
-        "                    slow = False)\n",
-        "\n",
-        "gtts_object.save(\"/content/aus_sample.mp4\")"
-      ],
-      "metadata": {
-        "id": "2qal7B2owk1A"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "from IPython.display import Audio\n",
-        "Audio(\"/content/aus_sample.mp4\")"
-      ],
-      "metadata": {
-        "id": "yQqzhf5Iw7Tv"
-      },
-      "execution_count": null,
-      "outputs": []
-    }
-  ]
-}
 
+Open In Colab
+
+!pip install gTTS
+     
+language code
+
+
+from gtts import gTTS
+
+text_to_say = "This is a sample piece of text read by gTTS."
+
+language = "en"
+
+gtts_object = gTTS (text = text_to_say,
+                    lang = language,
+                    slow = False)
+
+gtts_object.save("/content/eng_sample.mp4")
+     
+
+from IPython.display import Audio
+Audio("/content/eng_sample.mp4")
+     
+local accent code
+
+
+from gtts import gTTS
+
+text_to_say = "This is a sample piece of text read by gTTS."
+
+gtts_object = gTTS (text = text_to_say,
+                    lang = 'en',
+                    tld = 'com.au',
+                    slow = False)
+
+gtts_object.save("/content/aus_sample.mp4")
+     
+
+from IPython.display import Audio
+Audio("/content/aus_sample.mp4")
+     
 
 
 ## Overview 
