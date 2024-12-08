@@ -2,7 +2,7 @@
 ## 오은지, 정하은, 윤세희
 ### 2024년 12월 11일
 
-## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 어떻게 넣어야하고 수정해야하는지 모르겠어요 내일 다시 해볼께요......
+## Lesson Plan - 전체적으로 초안 만들었는데 선생님들 확인 부탁드립니다!
 ![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
 
 ## Overview 
@@ -197,7 +197,7 @@ Set goals for future speaking improvement.
 In Verona, an Italian city torn apart by the feud between two powerful families, the Montagues and the Capulets, young Romeo and Juliet's love story unfolds as a timeless tale of passion and tragedy. While attending a masquerade ball hosted by the Capulets, Romeo Montague secretly infiltrates the event and encounters Juliet Capulet. Instantly captivated by each other, their love blossoms despite the fierce hatred between their families. Underneath Juliet's window, the two confess their love and vow to marry in secret. They pledge to defy the boundaries set by their families, driven by their devotion to one another. However, their secret union sets off a chain of events that deepens the animosity between the Montagues and the Capulets. As the story progresses, misunderstandings and cruel twists of fate lead to heartbreak and loss, solidifying their love as a symbol of enduring passion and the devastating cost of division. Their story, one of Shakespeare’s greatest tragedies, continues to captivate audiences as a powerful reminder of love’s triumph and the dangers of hatred.
 
 
-## Huggingface  각각 링크 삽입 필요
+## Huggingface  - Recording하는 app 만들 수 있는 코드를 못찾았어요...! 교수님이 올려주신 수업 콜랩 자료 중에 해당 코드 있으면 알려주시면 감사하겠습니다!
    
 **| Gradio Wordcloud App | Gradio TTS Listening App(1) | Gradio TTS Listening App(2) | Gradio Recorder App
 |:--:|:--:|:--:|:--:|:--:|
