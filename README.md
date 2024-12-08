@@ -298,7 +298,7 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
 
 ## Huggingface  각각 링크 삽입 필요
    
-| Gradio Wordcloud App | Gradio TTS Listening App(1) | Gradio TTS Listening App(2) | Gradio Recorder App(?) | G
+**| Gradio Wordcloud App | Gradio TTS Listening App(1) | Gradio TTS Listening App(2) | Gradio Recorder App
 |:--:|:--:|:--:|:--:|:--:|
-<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3%201.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> 
+href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a  
 </div>
