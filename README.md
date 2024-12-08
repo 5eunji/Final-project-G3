@@ -203,5 +203,4 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
 |:--:|:--:|:--:|
 |<a href="https://e4ad4e8616de2d610e.gradio.live"><img src="https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20WordCloud.jpg" alt="Gradio Wordcloud QR" width="150"></a>|<a href="https://cc2e074fee01bd06ac.gradio.live"><img src="https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20TTS%20App(%EB%B3%B8%EB%AC%B8).jpg" alt="Gradio TTS App (본문) QR" width="150"></a>|<a href="https://ae496ed29129c005d2.gradio.live/"><img src="https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20TTS%20App(%EB%8C%80%ED%99%94%ED%98%95).jpg" alt="Gradio TTS App (대화형) QR" width="150"></a>|
 
-</div> 
 </div>
