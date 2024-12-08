@@ -5,68 +5,95 @@
 ## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
 ![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
 
+!pip install gradio
+!pip install gtts
+!pip install SpeechRecognition
 
-      "metadata": {
-        "id": "0UU2edWk9V1l"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "##TTS"
-      ],
-      "metadata": {
-        "id": "ZDT3ozd3_IXm"
-      }
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "!pip install gTTS"
-      ],
-      "metadata": {
-        "id": "t0-wdOHR_LAW"
-      },
-      "execution_count": null,
-      "outputs": []
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "[Language code](https://developers.google.com/admin-sdk/directory/v1/languages?hl=ko)"
-      ],
-      "metadata": {
-        "id": "uQJA-h4N_Rxm"
-      }
-    },
-    {
-      "cell_type": "code",
-      "source": [
-        "from gtts import gTTS\n",
-        "\n",
-        "text_to_say = \"This is a sample piece of text read by gTTS.\"\n",
-        "\n",
-        "language = \"en\"\n",
-        "\n",
-        "gtts_object = gTTS (text = text_to_say,\n",
-        "                    lang = language,\n",
-        "                    slow = False)\n",
-        "\n",
-        "gtts_object.save(\"/content/eng_sample.mp4\")\n",
-        "\n",
-        "from IPython.display import Audio\n",
-        "Audio(\"/content/eng_sample.mp4\")"
-      ],
-      "metadata": {
-        "id": "48zWO3sQ_d6O"
-      },
-      "execution_count": null,
-      "outputs": []
-    }
-  ]
-}
+import gradio as gr
+from gtts import gTTS
+import speech_recognition as sr
+from difflib import SequenceMatcher
+import tempfile
+import os
+
+# Define your sentences here
+sents = [
+    "In the small mountain village of Echo Ridge, adventure was a part of everyday life. Nestled among towering peaks, the village was said to be protected by the 'Guardian of the Glen,' a massive eagle that supposedly watched over the villagers from its perch high in the mountains. The legend inspired many adventurous tales among the villagers, especially the children.",
+    "Among these children was a bright-eyed eighth grader named Alex. Alex was known for his daring spirit and his love for exploring the rugged landscapes around Echo Ridge. He had a particular fascination with old maps and tales of hidden treasures that had been lost in the mountains centuries ago.",
+    "One day, while exploring the local library, Alex stumbled upon an ancient map tucked inside a forgotten book on village lore. The map hinted at the location of a lost treasure, hidden deep within a cave known as Whispering Hollow. Excited by the prospect of a real adventure, Alex decided to seek out the treasure.",
+    "Knowing the journey would be risky, he enlisted the help of his best friends, Mia and Sam. Together, they prepared for the expedition, gathering supplies and studying the map extensively. They planned their route, took note of landmarks, and readied themselves for any challenges they might face.",
+    "Their journey began at dawn. They trekked through dense forests, crossed rushing streams, and climbed steep cliffs. Along the way, they encountered various wildlife and navigated through tricky terrain, their map guiding them every step of the way.",
+    "After hours of hiking, they finally reached Whispering Hollow. The cave was more magnificent than they had imagined, filled with intricate stalactites and echoes of dripping water. Using their flashlights, they ventured deeper into the cave, guided by the markings on the map.",
+    "As they reached the heart of the cave, they discovered an ancient chest hidden behind a fallen boulder. With hearts pounding, they moved the boulder and opened the chest. Inside, instead of gold or jewels, they found a collection of old artifacts: pottery, coins, and a beautifully carved statuette of an eagle — the Guardian of the Glen.",
+    "Realizing the historical significance of their find, they decided to donate the artifacts to the local museum. The village celebrated their discovery, and the children were hailed as heroes. Their adventure brought the community together, sparking a renewed interest in the history and legends of Echo Ridge. Alex, Mia, and Sam became local legends, known not only for their daring but also for their spirit of discovery and respect for heritage. They continued to explore the mountains, each adventure strengthening their friendship and deepening their connection to their village.",
+    "The legend of the Guardian of the Glen lived on, not just as a protector but as a symbol of adventure and discovery, inspiring future generations to explore the mysteries of Echo Ridge."
+]
+
+def text_to_speech(selected_sentence, language):
+    tld = 'co.uk' if language == "British English" else 'com'
+
+    sn = int(selected_sentence.split(".")[0])  # Extract the sentence number
+    mytext = sents[sn - 1]  # Get the selected sentence
+
+    tts = gTTS(text=mytext, lang='en', tld=tld, slow=False)
+    filename = 'output.mp3'
+    tts.save(filename)
+    return filename
+
+def recognize_speech_from_microphone(audio_path):
+    recognizer = sr.Recognizer()
+    try:
+        with sr.AudioFile(audio_path) as source:
+            audio_data = recognizer.record(source)
+            text = recognizer.recognize_google(audio_data)
+            return text
+    except sr.UnknownValueError:
+        return "Could not understand the audio"
+    except sr.RequestError as e:
+        return f"Could not request results from Google Speech Recognition service; {e}"
+    except Exception as e:
+        return str(e)
+
+def calculate_similarity(original_text, recognized_text):
+    return SequenceMatcher(None, original_text.lower(), recognized_text.lower()).ratio() * 100
+
+def process_audio(selected_sentence, audio_path):
+    sn = int(selected_sentence.split(".")[0])  # Extract the sentence number
+    original_text = sents[sn - 1]  # Get the selected sentence
+    recognized_text = recognize_speech_from_microphone(audio_path)
+    if "Error" in recognized_text or "Could not" in recognized_text:
+        return recognized_text, 0.0
+    similarity = calculate_similarity(original_text, recognized_text)
+    return recognized_text, similarity
+
+def display_sentence(selected_sentence):
+    sn = int(selected_sentence.split(".")[0])
+    return sents[sn - 1]
+
+with gr.Blocks() as demo:
+    with gr.Row():
+        with gr.Column():
+            gr.Markdown("### Text-to-Speech Converter")
+            dropdown_sentences = gr.Dropdown(choices=[f"{i}. {sents[i-1]}" for i in range(1, len(sents) + 1)], label="Select Sentence")
+            radio_language = gr.Radio(choices=['American English', 'British English'], label="Language")
+            generate_tts_button = gr.Button("Generate Speech")
+            tts_audio_output = gr.Audio(type="filepath", label="Output Audio")
+            generate_tts_button.click(text_to_speech, inputs=[dropdown_sentences, radio_language], outputs=tts_audio_output)
+            selected_sentence_display = gr.Textbox(label="Selected Sentence", interactive=False)
+            dropdown_sentences.change(display_sentence, inputs=dropdown_sentences, outputs=selected_sentence_display)
+
+    with gr.Row():
+        with gr.Column():
+            gr.Markdown("### Pronunciation Evaluator")
+            mic_input = gr.Audio(label="Your Pronunciation", type="filepath")
+            result_button = gr.Button("Evaluate Pronunciation")
+            recognized_text = gr.Textbox(label="Recognized Text")
+            similarity_score = gr.Number(label="Similarity (%)")
+
+            result_button.click(process_audio, inputs=[dropdown_sentences, mic_input], outputs=[recognized_text, similarity_score])
+
+demo.launch()
+
 
 ## Overview 
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
