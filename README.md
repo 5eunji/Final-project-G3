@@ -62,6 +62,7 @@ Share personal ideas or examples related to the words during the discussion.
 Work together in pairs or small groups to explore possible connections between the words.
 
 
+
 (2) Main Listening Activity: TTS Listening (15 minutes)
 
 🎯 Objective: Improve listening comprehension and engagement.
@@ -84,6 +85,7 @@ Pause after each section to ask comprehension questions and ensure understanding
 Listen actively and complete the comprehension questions.
 
 
+
 (3) Pair Listening: TTS Dialogues (10 minutes)
 
 🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
@@ -93,6 +95,7 @@ Listen actively and complete the comprehension questions.
 
 Use TTS to play dialogue between Romeo and Juliet.
 Focus on tone, intonation, and expression.
+
 
 👨‍🏫 Teacher's Role:
 
@@ -120,6 +123,7 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 👦👧 Students' Role:
 
 Listen carefully and discuss the emotions of the characters.
+
 
 
 2. 🎙 Speaking Activity (20 minutes)
