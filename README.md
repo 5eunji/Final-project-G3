@@ -39,16 +39,24 @@ Students analyze the word cloud to predict the story's content.
 👨‍🏫 Teacher's Role:
 
 Project the word cloud and guide a discussion on the words.
+
 Explain meanings, use examples, and answer questions.
+
 Encourage students to share their thoughts on how the words might relate to the story's theme.
+
 Highlight any challenging or unusual words and explain their significance in the context of the story.
+
 
 👦👧 Students' Role:
 
 Discuss predictions based on the word cloud.
+
 Take notes and ask about unfamiliar vocabulary.
+
 Share personal ideas or examples related to the words during the discussion.
+
 Work together in pairs or small groups to explore possible connections between the words.
+
 
 (2) Main Listening Activity: TTS Listening (15 minutes)
 
@@ -80,14 +88,22 @@ Focus on tone, intonation, and expression.
 👨‍🏫 Teacher's Role:
 
 Play the TTS dialogues.
+
 [romeo&juliet dialogue]
 Juliet: Oh, Romeo, Romeo! Where are you, Romeo?
+
 Romeo: Juliet, I am here, standing below your window.
+
 Juliet: Why must our families hate each other? Why can’t we be together?
+
 Romeo: I don’t care about my family’s name. I only care about you, Juliet.
+
 Juliet: If you truly love me, promise to stay with me forever.
+
 Romeo: I promise, my love. I will always be with you, no matter what.
+
 Juliet: Then let’s marry in secret and prove that love can conquer anything.
+
 
 Discuss how the characters’ emotions are conveyed through tone and intonation.
 
@@ -109,15 +125,22 @@ Encourage them to mimic the tone and emotion from the TTS examples.
 👨‍🏫 Teacher's Role:
 
 Assign roles and help students practice lines.
+
 Provide constructive feedback on pronunciation and intonation.
+
 Encourage students to act out the scene with expression and emotion.
+
 Offer guidance on body language and facial expressions to enhance the performance.
+
 
 👦👧 Students' Role:
 
 Practice and record their role-play.
+
 Listen to their recordings and refine their delivery.
+
 Focus on improving fluency and confidence while speaking.
+
 Collaborate with peers to give and receive feedback on each other's performances.
 
 (2) Feedback and Sharing (10 minutes)
