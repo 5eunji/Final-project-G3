@@ -3,6 +3,8 @@
 ### 2024년 12월 11일
 
 ## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
+![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
+
 https://raw.githubusercontent.com/junkyuhufs/2024Fall_AI_AIDT/refs/heads/main/gTTS.ipynb
 
 ## Overview 
