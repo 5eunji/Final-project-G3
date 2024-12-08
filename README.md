@@ -290,7 +290,7 @@ Set goals for future speaking improvement.
 + [image link](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3_combined.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙 
-+ [picture book link](https://app.bookcreator.com/library/-ODbVVRFt1qwc8vjZI2_)
++ [picture book link](https://app.bookcreator.com/read/library/-ODbVVRFt1qwc8vjZI2_/VBDaDwoLP7bd4s7WpgalRoIC3jt2/anvSLBo-QSuYBfBNvbacAA/EAzHAfCXRr-h4-lf0EKb_g)
 
 **<Synopsis>**
 In Verona, an Italian city torn apart by the feud between two powerful families, the Montagues and the Capulets, young Romeo and Juliet's love story unfolds as a timeless tale of passion and tragedy. While attending a masquerade ball hosted by the Capulets, Romeo Montague secretly infiltrates the event and encounters Juliet Capulet. Instantly captivated by each other, their love blossoms despite the fierce hatred between their families. Underneath Juliet's window, the two confess their love and vow to marry in secret. They pledge to defy the boundaries set by their families, driven by their devotion to one another. However, their secret union sets off a chain of events that deepens the animosity between the Montagues and the Capulets. As the story progresses, misunderstandings and cruel twists of fate lead to heartbreak and loss, solidifying their love as a symbol of enduring passion and the devastating cost of division. Their story, one of Shakespeare’s greatest tragedies, continues to captivate audiences as a powerful reminder of love’s triumph and the dangers of hatred.
