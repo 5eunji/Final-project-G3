@@ -289,7 +289,7 @@ Set goals for future speaking improvement.
 + [text link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo_text!.txt)
 + [image link](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3_combined.png)
 
-#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙 
+#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙  -> 이미지북 만들었는데 선생님들 화면에서 열리는지 확인 한번 해주세요!
 + [picture book link](https://app.bookcreator.com/read/library/-ODbVVRFt1qwc8vjZI2_/VBDaDwoLP7bd4s7WpgalRoIC3jt2/anvSLBo-QSuYBfBNvbacAA/EAzHAfCXRr-h4-lf0EKb_g)
 
 **<Synopsis>**
@@ -300,7 +300,8 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
 
 <div align=center>
    
-| Gradio Wordcloud App | Gradio TTS Listening App | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
+| Gradio Wordcloud App | Gradio TTS Listening App (이하 추후 삭제) | Gradio Cloze Question App | Gradio Image Sequencing App | Gradio Writing Checker App |
 |:--:|:--:|:--:|:--:|:--:|
-|<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
+|<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> 
+(사용 안하므로 이하 마크다운 추후 삭제) </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
 </div>
