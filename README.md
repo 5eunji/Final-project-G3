@@ -5,33 +5,59 @@
 ## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
 ![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
 
-# TTS Example Code
 
-## Install gTTS
-```bash
-!pip install gTTS
-
-from gtts import gTTS
-
-text_to_say = "This is a sample piece of text read by gTTS."
-
-language = "en"
-
-gtts_object = gTTS(text=text_to_say, lang=language, slow=False)
-
-gtts_object.save("/content/eng_sample.mp4")
-
-from IPython.display import Audio
-Audio("/content/eng_sample.mp4")
-
-from gtts import gTTS
-
-text_to_say = "This is a sample piece of text read by gTTS."
-
-gtts_object = gTTS(text=text_to_say, lang='en', tld='com.au', slow=False)
-
-gtts_object.save("/content/aus_sample.mp4")
-     
+        "##TTS"
+      ],
+      "metadata": {
+        "id": "ZDT3ozd3_IXm"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "!pip install gTTS"
+      ],
+      "metadata": {
+        "id": "t0-wdOHR_LAW"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "[Language code](https://developers.google.com/admin-sdk/directory/v1/languages?hl=ko)"
+      ],
+      "metadata": {
+        "id": "uQJA-h4N_Rxm"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "from gtts import gTTS\n",
+        "\n",
+        "text_to_say = \"This is a sample piece of text read by gTTS.\"\n",
+        "\n",
+        "language = \"en\"\n",
+        "\n",
+        "gtts_object = gTTS (text = text_to_say,\n",
+        "                    lang = language,\n",
+        "                    slow = False)\n",
+        "\n",
+        "gtts_object.save(\"/content/eng_sample.mp4\")\n",
+        "\n",
+        "from IPython.display import Audio\n",
+        "Audio(\"/content/eng_sample.mp4\")"
+      ],
+      "metadata": {
+        "id": "48zWO3sQ_d6O"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
 
 
 ## Overview 
