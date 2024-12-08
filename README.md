@@ -5,13 +5,11 @@
 ## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
 ![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
 
+# TTS Example Code
 
-Open In Colab
-
+## Install gTTS
+```bash
 !pip install gTTS
-     
-language code
-
 
 from gtts import gTTS
 
@@ -19,33 +17,20 @@ text_to_say = "This is a sample piece of text read by gTTS."
 
 language = "en"
 
-gtts_object = gTTS (text = text_to_say,
-                    lang = language,
-                    slow = False)
+gtts_object = gTTS(text=text_to_say, lang=language, slow=False)
 
 gtts_object.save("/content/eng_sample.mp4")
-     
 
 from IPython.display import Audio
 Audio("/content/eng_sample.mp4")
-     
-local accent code
-
 
 from gtts import gTTS
 
 text_to_say = "This is a sample piece of text read by gTTS."
 
-gtts_object = gTTS (text = text_to_say,
-                    lang = 'en',
-                    tld = 'com.au',
-                    slow = False)
+gtts_object = gTTS(text=text_to_say, lang='en', tld='com.au', slow=False)
 
 gtts_object.save("/content/aus_sample.mp4")
-     
-
-from IPython.display import Audio
-Audio("/content/aus_sample.mp4")
      
 
 
