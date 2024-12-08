@@ -283,16 +283,16 @@ Set goals for future speaking improvement.
 - 💬 Encourage students to actively participate and ask questions throughout the lesson.
 - ⚙️ Adapt the activities as needed based on the students' proficiency levels and engagement.
 
-## Lesson Materials 로미오와 줄리엣에 맞게 하면 되는데 자료는 있지만 삽입은 어떻게 하지?(텍스트 이미지 삽입 완료 했습니다 -하은)
+## Lesson Materials
 
 ### Story Title: Oh, Romeo Romeo! 
 + [text link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo_text!.txt)
 + [image link](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3_combined.png)
 
-#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙 text 이미지 사진북 만들어야함 -> 하은 토요일 오전까지 해놓겠습니다 
+#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙 
 + [picture book link](https://www.childbook.ai/book/s/the-guardians-secret-spgd)
 
-**<Synopsis>** 수정 완료했습니다 - 하은
+**<Synopsis>**
 In Verona, an Italian city torn apart by the feud between two powerful families, the Montagues and the Capulets, young Romeo and Juliet's love story unfolds as a timeless tale of passion and tragedy. While attending a masquerade ball hosted by the Capulets, Romeo Montague secretly infiltrates the event and encounters Juliet Capulet. Instantly captivated by each other, their love blossoms despite the fierce hatred between their families. Underneath Juliet's window, the two confess their love and vow to marry in secret. They pledge to defy the boundaries set by their families, driven by their devotion to one another. However, their secret union sets off a chain of events that deepens the animosity between the Montagues and the Capulets. As the story progresses, misunderstandings and cruel twists of fate lead to heartbreak and loss, solidifying their love as a symbol of enduring passion and the devastating cost of division. Their story, one of Shakespeare’s greatest tragedies, continues to captivate audiences as a powerful reminder of love’s triumph and the dangers of hatred.
 
 
