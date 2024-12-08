@@ -2,16 +2,13 @@
 ## 오은지, 정하은, 윤세희
 ### 2024년 12월 11일
 
-## Useful Links 삭제 예정 참고용 
-|💠[Emoji](https://gist.github.com/rxaviers/7360908) | 💠[ProjectGuide](https://github.com/MK316/Spring2024/blob/main/DLTESOL/project/README.md) | 💠[Reading material](https://raw.githubusercontent.com/MK316/Spring2024/main/DLTESOL/project/story02.txt) | 💠[CodePage](https://github.com/ShieldEdu/G4-finalproject/blob/main/FPG04.ipynb) | 💠 [APP#1-Wordcloud](https://huggingface.co/spaces/teatwots/wordcloud) | 💠 [APP#2-TTS-listening](https://huggingface.co/spaces/englissi/gstesolfinallistening) | 💠 [APP#3-Cloze test](https://huggingface.co/spaces/englissi/gstesolclozetest) | 💠 [APP#4-Sequencing app](https://huggingface.co/spaces/teatwots/sequencing) | 💠 [APP#5-Grammar Checker](https://huggingface.co/spaces/teatwots/grammarchecking)  | 
-
-## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요
+## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
 ![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
 
-## Overview 리스닝 스피킹으로 수정 완료
+## Overview 
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
 
-## Objectives 완료 - 수정할거 있음 알려주세요 : )
+## Objectives
 
 📚 Introduce and discuss key vocabulary from the story to enhance students’ understanding of the text.
 
@@ -208,15 +205,3 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
 |:--:|:--:|:--:|:--:|:--:|
 |<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
 </div>
-
-### 기타 이건 지워도 되는건가?
-+ [App Link](https://huggingface.co/spaces/ejun123/ReadAloud)
-+ [App Link2](https://ejun123-ReadAloud.hf.space)
-+ [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
-+ [Emoji](https://gist.github.com/rxaviers/7360908)
-
-|a|b|c|
-|--|--|--|
-|1|2|3|
-
-![Image](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/tiger.jpg)
