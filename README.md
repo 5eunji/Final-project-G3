@@ -3,41 +3,7 @@
 ### 2024년 12월 11일
 
 ## Lesson Plan 수정 완료 (로미오와 줄리엣 Listening & Speaking) - 활동에 파이썬 코드만 넣으면 될거같아요 (교수님꺼 넣기, 본문 통 tts)
-![Final Banner](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!.png)
-!pip install gTTS
-
-[language code](https://developers.google.com/admin-sdk/directory/v1/languages)
-
-from gtts import gTTS
-
-text_to_say = "This is a sample piece of text read by gTTS."
-
-language = "en"
-
-gtts_object = gTTS (text = text_to_say,
-                    lang = language,
-                    slow = False)
-
-gtts_object.save("/content/eng_sample.mp4")
-
-from IPython.display import Audio
-Audio("/content/eng_sample.mp4")
-
-[local accent code](https://gtts.readthedocs.io/en/latest/module.html#languages-gtts-lang)
-
-from gtts import gTTS
-
-text_to_say = "This is a sample piece of text read by gTTS."
-
-gtts_object = gTTS (text = text_to_say,
-                    lang = 'en',
-                    tld = 'com.au',
-                    slow = False)
-
-gtts_object.save("/content/aus_sample.mp4")
-
-from IPython.display import Audio
-Audio("/content/aus_sample.mp4")
+https://raw.githubusercontent.com/junkyuhufs/2024Fall_AI_AIDT/refs/heads/main/gTTS.ipynb
 
 ## Overview 
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
