@@ -31,10 +31,13 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 🎯 Objective: Introduce and discuss new vocabulary from the story.
 
+
 📱 Activity:
 
 Use the Gradio Wordcloud App to generate a word cloud of key vocabulary from the story.
+
 Students analyze the word cloud to predict the story's content.
+
 
 👨‍🏫 Teacher's Role:
 
@@ -45,6 +48,7 @@ Explain meanings, use examples, and answer questions.
 Encourage students to share their thoughts on how the words might relate to the story's theme.
 
 Highlight any challenging or unusual words and explain their significance in the context of the story.
+
 
 
 👦👧 Students' Role:
@@ -62,23 +66,28 @@ Work together in pairs or small groups to explore possible connections between t
 
 🎯 Objective: Improve listening comprehension and engagement.
 
+
 📱 Activity:
 
 Play a TTS-generated narration of the story using pyttsx3 or an external TTS library.
+
 Provide a handout with comprehension questions for students to answer as they listen.
 
 👨‍🏫 Teacher's Role:
 
 Play the TTS narration.
+
 Pause after each section to ask comprehension questions and ensure understanding.
 
 👦👧 Students' Role:
 
 Listen actively and complete the comprehension questions.
 
+
 (3) Pair Listening: TTS Dialogues (10 minutes)
 
 🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
+
 
 📱 Activity:
 
@@ -89,7 +98,8 @@ Focus on tone, intonation, and expression.
 
 Play the TTS dialogues.
 
-[romeo&juliet dialogue]
+[Romeo & Juliet dialogue]
+
 Juliet: Oh, Romeo, Romeo! Where are you, Romeo?
 
 Romeo: Juliet, I am here, standing below your window.
@@ -104,12 +114,13 @@ Romeo: I promise, my love. I will always be with you, no matter what.
 
 Juliet: Then let’s marry in secret and prove that love can conquer anything.
 
-
 Discuss how the characters’ emotions are conveyed through tone and intonation.
+
 
 👦👧 Students' Role:
 
 Listen carefully and discuss the emotions of the characters.
+
 
 2. 🎙 Speaking Activity (20 minutes)
    
@@ -120,7 +131,9 @@ Listen carefully and discuss the emotions of the characters.
 📱 Activity:
 
 Students use a recording app (e.g., Gradio Audio Recorder) to record their own dialogue as Romeo and Juliet.
+
 Encourage them to mimic the tone and emotion from the TTS examples.
+
 
 👨‍🏫 Teacher's Role:
 
@@ -142,6 +155,7 @@ Listen to their recordings and refine their delivery.
 Focus on improving fluency and confidence while speaking.
 
 Collaborate with peers to give and receive feedback on each other's performances.
+
 
 (2) Feedback and Sharing (10 minutes)
 
