@@ -190,7 +190,7 @@ Set goals for future speaking improvement.
 + [text link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo_text!.txt)
 + [image link](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3_combined.png)
 
-#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙  -> 이미지북 만들었는데 선생님들 화면에서 열리는지 확인 한번 해주세요!
+#### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!_%EC%B1%85%EB%B3%91%ED%95%A9.pdf)
 
 **<Synopsis>**
