@@ -2,8 +2,8 @@
 ## 오은지, 정하은, 윤세희
 ### 2024년 12월 11일
 
-## Lesson Plan - 전체적으로 초안 만들었는데 선생님들 확인 부탁드립니다!
-![image](https://github.com/user-attachments/assets/2cf43f8c-980e-4033-9eb8-c7792889c923)
+## Lesson Plan 
+![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
 
 ## Overview 
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
