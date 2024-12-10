@@ -44,8 +44,6 @@ Explain meanings, use examples, and answer questions.
 
 Encourage students to share their thoughts on how the words might relate to the story's theme.
 
-Highlight any challenging or unusual words and explain their significance in the context of the story.
-
 
 
 👦👧 Students' Role:
@@ -94,9 +92,9 @@ Use TTS to play dialogue between Romeo and Juliet.
 Focus on tone, intonation, and expression.
 
 
-👨‍🏫 Teacher's Role:
+👨‍🏫 Teacher's Role: 교수님 피드백으로 수정완료
 
-Play the TTS dialogues.
+Play the TTS dialogues. The teacher then provides a QR code link for students to review the recordings.
 
 [Romeo & Juliet dialogue]
 
@@ -117,15 +115,17 @@ Juliet: Then let’s marry in secret and prove that love can conquer anything.
 Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 
-👦👧 Students' Role:
+👦👧 Students' Role: 교수님 피드백으로 수정완료
 
-Listen carefully and discuss the emotions of the characters.
+
+Students record their role-play, upload the file to Google Drive, and submit it through a Google Form. 
+
 
 
 
 2. 🎙 Speaking Activity (20 minutes)
    
-(1) Role-Playing Activity: Recreate the Scene (10 minutes
+(1) Role-Playing Activity: Recreate the Scene (10 minutes)
 
 🎯 Objective: Enhance speaking skills and practice expression through role-playing.
 
