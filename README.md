@@ -24,7 +24,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 1. 🎧 Listening Activity (35 minutes)
 
-(1) Pre-Listening Activity: Learning New Words (10 minutes)
+## (1) Pre-Listening Activity: Learning New Words (10 minutes)
 
 🎯 Objective: Introduce and discuss new vocabulary from the story.
 
@@ -58,7 +58,7 @@ Work together in pairs or small groups to explore possible connections between t
 
 
 
-(2) Main Listening Activity: TTS Listening (15 minutes)
+## (2) Main Listening Activity: TTS Listening (15 minutes)
 
 🎯 Objective: Improve listening comprehension and engagement.
 
@@ -85,7 +85,7 @@ Listen actively and complete the comprehension questions.
 
 
 
-(3) Pair Listening: TTS Dialogues (10 minutes)
+## (3) Pair Listening: TTS Dialogues (10 minutes)
 
 🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
 
@@ -134,7 +134,7 @@ Students record their role-play, upload the files via a Google Form
 
 
 
-2. 🎙 Speaking Activity (20 minutes)
+## 2. 🎙 Speaking Activity (20 minutes)
    
 (1) Role-Playing Activity: Recreate the Scene (10 minutes)
 
@@ -169,7 +169,7 @@ Focus on improving fluency and confidence while speaking.
 Collaborate with peers to give and receive feedback on each other's performances.
 
 
-(2) Feedback and Sharing (10 minutes)
+## (2) Feedback and Sharing (10 minutes)
 
 🎯 Objective: Reflect on speaking performance and improve further.
 
