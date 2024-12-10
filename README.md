@@ -107,7 +107,7 @@ Teacher creates a QR code for each recording.
 
 Later, the class reviews the recordings together.
 
-[Romeo & Juliet dialogue]
+## [Romeo & Juliet dialogue]
 
 Juliet: Oh, Romeo, Romeo! Where are you, Romeo?
 
