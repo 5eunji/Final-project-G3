@@ -95,10 +95,17 @@ Listen actively and complete the comprehension questions.
 Use TTS to play dialogue between Romeo and Juliet.
 Focus on tone, intonation, and expression.
 
+Students record their role-play, upload the files via a Google Form, and the teacher creates a QR code for each recording. 
+
+Later, the class reviews the recordings together.
 
 👨‍🏫 Teacher's Role: 교수님 피드백으로 수정완료
 
-Play the TTS dialogues. The teacher then provides a QR code link for students to review the recordings.
+Play the TTS dialogues. 
+
+Teacher creates a QR code for each recording. 
+
+Later, the class reviews the recordings together.
 
 [Romeo & Juliet dialogue]
 
@@ -122,7 +129,7 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 👦👧 Students' Role: 교수님 피드백으로 수정완료
 
 
-Students record their role-play, upload the file to Google Drive, and submit it through a Google Form. 
+Students record their role-play, upload the files via a Google Form
 
 
 
