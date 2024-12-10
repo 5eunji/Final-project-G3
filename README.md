@@ -69,11 +69,15 @@ Play a TTS-generated narration of the story using pyttsx3 or an external TTS lib
 
 Provide a handout with comprehension questions for students to answer as they listen.
 
+
+
 👨‍🏫 Teacher's Role:
 
 Play the TTS narration.
 
 Pause after each section to ask comprehension questions and ensure understanding.
+
+
 
 👦👧 Students' Role:
 
