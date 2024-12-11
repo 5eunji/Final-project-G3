@@ -69,7 +69,7 @@ Focus on tone, intonation, and expression.
 
 Play the TTS dialogues. 
 
-Teacher creates a QR code for each recording. 
+The teacher creates a QR code for each recording and sends a drop-down recording file via Google Form.
 
 Later, the class reviews the recordings together.
 
@@ -168,6 +168,7 @@ Set goals for future speaking improvement.
 ### Story Title: Oh, Romeo Romeo! 
 + [text link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo_text!.txt)
 + [image link](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3_combined.png)
++ [google form QR - Drop-down recording file](
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book1 link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!_%EC%B1%85%EB%B3%91%ED%95%A9.pdf)
