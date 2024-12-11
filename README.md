@@ -1,15 +1,15 @@
 # 💞 AI 코딩 활용 영어수업 과제 만들기 
 ## 오은지, 정하은, 윤세희
 ### 2024년 12월 11일 발표 
-### Romeo and Juliet-based Listening & Speaking Activity
 
-## Lesson Plan 
+
+## Romeo and Juliet-based Listening & Speaking Activity
 ![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
 
 ## Overview 
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. 
 
-The lesson is based on the story "Romeo and Juliet."
+## The lesson is based on the story "Romeo and Juliet."
 
 
 ## Objectives
