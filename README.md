@@ -3,7 +3,6 @@
 ### 2024년 12월 11일 발표 
 
 
-## Romeo and Juliet-based Listening & Speaking Activity 😊
 ![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
 
 ## ✅ Lesson Plan Overview 
