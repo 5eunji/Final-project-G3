@@ -184,6 +184,6 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
 |:--:|:--:|:--:|
 
 
-
+https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20Audio%20Record%20APP_%EC%B5%9C%EC%A2%85.jpg
 
 </div>
