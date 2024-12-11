@@ -166,6 +166,8 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 2. Discuss areas for improvement and celebrate strong performances.
 
+3. Select outstanding teams to foster a sense of achievement and further motivate learning.
+
 ## 👨‍🏫 Teacher's Role:
 
 1. The teacher generates a QR code and reviews it together with the class.
