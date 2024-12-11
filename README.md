@@ -160,7 +160,7 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 1. Play back the recorded dialogues in class.
 
-2.. Discuss areas for improvement and celebrate strong performances.
+2. Discuss areas for improvement and celebrate strong performances.
 
 ## 👨‍🏫 Teacher's Role:
 
