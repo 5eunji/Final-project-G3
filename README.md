@@ -168,7 +168,7 @@ Set goals for future speaking improvement.
 ### Story Title: Oh, Romeo Romeo! 
 + [text link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo_text!.txt)
 + [image link](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A1%9C%EB%AF%B8%EC%98%A4%EC%99%80%20%EC%A4%84%EB%A6%AC%EC%97%A3_combined.png)
-+ [google form QR - Drop-down recording file](
++ [google form QR - Drop-down recording file](https://github.com/5eunji/Final-project-G3/blob/main/%EB%A0%88%EC%BD%94%EB%94%A9%20%EB%93%9C%EB%A1%AD%EB%8B%A4%EC%9A%B4%20%EA%B5%AC%EA%B8%80%ED%8F%BC%20QR.png)
 
 #### :blush::blue_book:We made a picturing book to help get the story quickly! Click the link below!:)📙
 + [picture book1 link](https://github.com/5eunji/Final-project-G3/blob/main/Oh%2C%20Romeo%20Romeo!_%EC%B1%85%EB%B3%91%ED%95%A9.pdf)
