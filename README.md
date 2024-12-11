@@ -1,7 +1,7 @@
 # 💞 AI 코딩 활용 영어수업 과제 만들기 
 ## 오은지, 정하은, 윤세희
 ### 2024년 12월 11일 발표 
-### Romeo and Juliet-based Listen & Speak Activity
+### Romeo and Juliet-based Listening & Speaking Activity
 
 ## Lesson Plan 
 ![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
@@ -14,7 +14,6 @@ The lesson is based on the story "Romeo and Juliet."
 
 ## Objectives
 
-📚 Introduce and discuss key vocabulary from the story to enhance students’ understanding of the text.
 
 🧠 Develop listening comprehension skills through TTS-generated narration and character dialogues.
 
@@ -26,7 +25,7 @@ The lesson is based on the story "Romeo and Juliet."
 
 ## Teaching Procedure (55 minutes in total)
 
-1. 🎧 Listening Activity (30 minutes)
+## 1. 🎧 Listening Activity (30 minutes)
 
 ## (1) Main Listening Activity: TTS Listening (15 minutes)
 
@@ -65,10 +64,6 @@ Listen actively and complete the comprehension questions.
 Use TTS to play dialogue between Romeo and Juliet.
 Focus on tone, intonation, and expression.
 
-Students record their role-play, upload the files via a Google Form, and the teacher creates a QR code for each recording. 
-
-Later, the class reviews the recordings together.
-
 
 👨‍🏫 Teacher's Role: 
 
@@ -102,7 +97,6 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 
 Students record their role-play, upload the files via a Google Form.
-
 
 
 
@@ -152,12 +146,14 @@ Discuss areas for improvement and celebrate strong performances.
 
 👨‍🏫 Teacher's Role:
 
-Facilitate discussion and provide specific feedback.
-Highlight good examples of expression and clarity.
+The teacher generates a QR code and reviews it together with the class.
+
+The teacher and students share their opinions and provide feedback to one another.
 
 👦👧 Students' Role:
 
 Share recordings and reflect on feedback.
+
 Set goals for future speaking improvement.
 
 ### Notes for Teachers
