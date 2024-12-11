@@ -31,7 +31,7 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 📱 Activity:
 
-Play a TTS-generated narration of the story using pyttsx3 or an external TTS library.
+Play a TTS-generated narration of the story using TTS.
 
 Provide a handout with comprehension questions for students to answer as they listen.
 
