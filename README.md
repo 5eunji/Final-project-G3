@@ -182,7 +182,7 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
    
 | Gradio TTS Listening App(1) | Gradio TTS Listening App(2) | Gradio Audio Recorder |
 |:--:|:--:|:--:|
-|<a href="https://a6844eb9e77ae9af58.gradio.live)"><img src="https://raw.githubusercontent.com/5eunji/Final-project-G3/main/Gradio%20TTS%20App(%EB%B3%B8%EB%AC%B8).jpg" alt="Gradio TTS App (본문) QR" width="150"></a>|<a href="https://ae496ed29129c005d2.gradio.live/"><img src="https://raw.githubusercontent.com/5eunji/Final-project-G3/main/Gradio%20TTS%20App(%EB%8C%80%ED%99%94%ED%98%95).jpg" alt="Gradio TTS App (대화형) QR" width="150"></a>|<a href="https://0ac2e13ffab71fbea0.gradio.live/"><img src="https://raw.githubusercontent.com/5eunji/Final-project-G3/main/%EC%98%A4%EB%94%94%EC%98%A4%20%EB%A0%88%EC%BD%94%EB%94%A9%20QR(%EC%B5%9C%EC%A2%85).png" alt="오디오 레코딩 QR(최종)" width="150"></a>|
+|<a href="https://a6844eb9e77ae9af58.gradio.live)"><img src="(https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20TTS%20App(%EB%B3%B8%EB%AC%B8)_%EC%B5%9C%EC%A2%85.jpg)" alt="Gradio TTS App (본문) QR_최종" width="150"></a>|<a href="https://ae496ed29129c005d2.gradio.live/"><img src="https://raw.githubusercontent.com/5eunji/Final-project-G3/main/Gradio%20TTS%20App(%EB%8C%80%ED%99%94%ED%98%95).jpg" alt="Gradio TTS App (대화형) QR" width="150"></a>|<a href="https://0ac2e13ffab71fbea0.gradio.live/"><img src="https://raw.githubusercontent.com/5eunji/Final-project-G3/main/%EC%98%A4%EB%94%94%EC%98%A4%20%EB%A0%88%EC%BD%94%EB%94%A9%20QR(%EC%B5%9C%EC%A2%85).png" alt="오디오 레코딩 QR(최종)" width="150"></a>|
 
 
 </div>
