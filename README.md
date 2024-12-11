@@ -69,7 +69,7 @@ Focus on tone, intonation, and expression.
 
 Play the TTS dialogues. 
 
-The teacher creates a QR code for each recording and sends a drop-down recording file via Google Form.
+The teacher creates a Google Drive to collect recording. - Students drop down recording files via QR code.
 
 Later, the class reviews the recordings together.
 
