@@ -72,7 +72,7 @@ Listen actively and complete the comprehension questions.😊
 
 
 
-## (2) Pair Listening: TTS Dialogues (15 minutes)
+## (2) Listening: TTS Dialogues (15 minutes)
 
 🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
 
@@ -115,7 +115,7 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 
 1. Students drop down recording files via QR code.
-2. Students record their role-play, upload the files via a Google Form.
+2. Students record their role-play, upload the files via a Google Drive.
 
    
 ## 2. 🎙 Speaking Activity (25 minutes)
