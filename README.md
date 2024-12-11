@@ -36,10 +36,12 @@ The lesson is based on the story "Romeo and Juliet."
 
 
 
-## Teaching Procedure 
+# 😊Teaching Procedure 
 
 ## Level: Intermediate, Middel school 3rd
 ## Time : 55 minutes in total
+
+
 
 
 ## 1. 🎧 Listening Activity (30 minutes)
