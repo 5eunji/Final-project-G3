@@ -6,7 +6,10 @@
 ![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
 
 ## Overview 
-This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. The lesson is based on the story "Romeo and Juliet."
+This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. 
+
+The lesson is based on the story "Romeo and Juliet."
+
 
 ## Objectives
 
@@ -66,13 +69,14 @@ Students record their role-play, upload the files via a Google Form, and the tea
 Later, the class reviews the recordings together.
 
 
-👨‍🏫 Teacher's Role: 교수님 피드백으로 수정완료
+👨‍🏫 Teacher's Role: 
 
 Play the TTS dialogues. 
 
 Teacher creates a QR code for each recording. 
 
 Later, the class reviews the recordings together.
+
 
 ## [Romeo & Juliet dialogue]
 
@@ -93,10 +97,10 @@ Juliet: Then let’s marry in secret and prove that love can conquer anything.
 Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 
-👦👧 Students' Role: 교수님 피드백으로 수정완료
+👦👧 Students' Role:
 
 
-Students record their role-play, upload the files via a Google Form
+Students record their role-play, upload the files via a Google Form.
 
 
 
