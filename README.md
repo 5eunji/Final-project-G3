@@ -182,7 +182,7 @@ In Verona, an Italian city torn apart by the feud between two powerful families,
    
 | Gradio TTS Listening App(1) | Gradio TTS Listening App(2) | Gradio Audio Recorder |
 |:--:|:--:|:--:|
-
+https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20TTS%20App(%EB%B3%B8%EB%AC%B8)_%EC%B5%9C%EC%A2%85.jpg
 
 https://github.com/5eunji/Final-project-G3/blob/main/Gradio%20Audio%20Record%20APP_%EC%B5%9C%EC%A2%85.jpg
 
