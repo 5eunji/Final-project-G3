@@ -36,7 +36,7 @@ The lesson is based on the story "Romeo and Juliet."
 2.Select outstanding teams to foster a sense of achievement and further motivate learning.
 
 
-## Teaching Procedure (55 minutes in total)
+## Teaching Procedure (Level: Intermediate, Middel school 3rd / Time : 55 minutes in total) 
 
 ## 1. 🎧 Listening Activity (30 minutes)
 
@@ -63,7 +63,7 @@ Pause after each section to ask comprehension questions and ensure understanding
 
 👦👧 Students' Role:
 
-Listen actively and complete the comprehension questions.
+Listen actively and complete the comprehension questions.😊
 
 
 
