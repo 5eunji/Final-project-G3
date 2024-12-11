@@ -15,12 +15,25 @@ The lesson is based on the story "Romeo and Juliet."
 ## Objectives
 
 
-🧠 Develop listening comprehension skills through TTS-generated narration and character dialogues.
+## ✅ Improving Listening Skills
 
-✅ Improve speaking and pronunciation skills by practicing and recording role-play dialogues.
+1. Use TTS (Text-to-Speech) tools to revisit previously learned text passages, focusing on understanding the flow and context of the story.
 
-🎙️ Foster students’ ability to express emotions and intonation through character-based speaking activities
+2. Listen to dialogue from Romeo and Juliet to learn intonation and emotional expression.
 
+
+## ✅ Enhancing Speaking Skills
+
+1. Practice dialogues in pairs, recording them to refine pronunciation and intonation.
+
+2. Upload the recordings to a Google Sheet provided by the teacher, then use QR code-shared files to exchange feedback with classmates.
+
+
+## ✅Collaborative Learning Experience
+
+1.Engage in team activities to develop collaboration and feedback skills, boosting confidence and interest in English learning.
+
+2.Select outstanding teams to foster a sense of achievement and further motivate learning.
 
 
 ## Teaching Procedure (55 minutes in total)
