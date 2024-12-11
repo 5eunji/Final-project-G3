@@ -22,43 +22,9 @@ This lesson plan is designed for middle school students and focuses on enhancing
 
 ## Teaching Procedure (55 minutes in total)
 
-1. 🎧 Listening Activity (35 minutes)
+1. 🎧 Listening Activity (30 minutes)
 
-## (1) Pre-Listening Activity: Learning New Words (10 minutes)
-
-🎯 Objective: Introduce and discuss new vocabulary from the story.
-
-
-📱 Activity:
-
-Use the Gradio Wordcloud App to generate a word cloud of key vocabulary from the story.
-
-Students analyze the word cloud to predict the story's content.
-
-
-👨‍🏫 Teacher's Role:
-
-Project the word cloud and guide a discussion on the words.
-
-Explain meanings, use examples, and answer questions.
-
-Encourage students to share their thoughts on how the words might relate to the story's theme.
-
-
-
-👦👧 Students' Role:
-
-Discuss predictions based on the word cloud.
-
-Take notes and ask about unfamiliar vocabulary.
-
-Share personal ideas or examples related to the words during the discussion.
-
-Work together in pairs or small groups to explore possible connections between the words.
-
-
-
-## (2) Main Listening Activity: TTS Listening (15 minutes)
+## (1) Main Listening Activity: TTS Listening (15 minutes)
 
 🎯 Objective: Improve listening comprehension and engagement.
 
@@ -85,7 +51,7 @@ Listen actively and complete the comprehension questions.
 
 
 
-## (3) Pair Listening: TTS Dialogues (10 minutes)
+## (2) Pair Listening: TTS Dialogues (15 minutes)
 
 🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
 
@@ -98,6 +64,7 @@ Focus on tone, intonation, and expression.
 Students record their role-play, upload the files via a Google Form, and the teacher creates a QR code for each recording. 
 
 Later, the class reviews the recordings together.
+
 
 👨‍🏫 Teacher's Role: 교수님 피드백으로 수정완료
 
@@ -134,9 +101,9 @@ Students record their role-play, upload the files via a Google Form
 
 
 
-## 2. 🎙 Speaking Activity (20 minutes)
+## 2. 🎙 Speaking Activity (25 minutes)
    
-## (1) Role-Playing Activity: Recreate the Scene (10 minutes)
+## (1) Role-Playing Activity: Recreate the Scene (15 minutes)
 
 🎯 Objective: Enhance speaking skills and practice expression through role-playing.
 
