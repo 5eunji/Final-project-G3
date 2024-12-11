@@ -5,10 +5,9 @@
 
 ![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
 
-## ✅ Lesson Plan Overview 
+## Lesson Plan Overview 
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. 
-
-## The lesson is based on the story "Romeo and Juliet."
+The lesson is based on the story "Romeo and Juliet."
 
 
 ## Objectives
