@@ -1,6 +1,6 @@
 # 💞 AI 코딩 활용 영어수업 과제 만들기 
-## 오은지, 정하은, 윤세희
-### 2024년 12월 11일 발표 
+## 오은지, 정하은, 윤세희 (2024년 12월 11일 발표 )
+
 
 
 ![image](https://github.com/user-attachments/assets/56f517af-2ef3-44ce-8354-48c9c12c7b4d)
@@ -29,9 +29,9 @@ The lesson is based on the story "Romeo and Juliet."
 
 ## ✅Collaborative Learning Experience
 
-1.Engage in team activities to develop collaboration and feedback skills, boosting confidence and interest in English learning.
+1. Engage in team activities to develop collaboration and feedback skills, boosting confidence and interest in English learning.
 
-2.Select outstanding teams to foster a sense of achievement and further motivate learning.
+2. Select outstanding teams to foster a sense of achievement and further motivate learning.
 
 
 
@@ -48,17 +48,17 @@ The lesson is based on the story "Romeo and Juliet."
 
 ## 📱 Activity:
 
-Play a TTS-generated narration of the story using TTS.
+1. Play a TTS-generated narration of the story using TTS.
 
-Provide a handout with comprehension questions for students to answer as they listen.
+2. Provide a handout with comprehension questions for students to answer as they listen.
 
 
 
 ## 👨‍🏫 Teacher's Role:
 
-Play the TTS narration.
+1. Play the TTS narration.
 
-Pause after each section to ask comprehension questions and ensure understanding.
+2. Pause after each section to ask comprehension questions and ensure understanding.
 
 
 
@@ -76,16 +76,16 @@ Listen actively and complete the comprehension questions.😊
 ## 📱 Activity:
 
 Use TTS to play dialogue between Romeo and Juliet.
-Focus on tone, intonation, and expression.
+(Focus on tone, intonation, and expression.)
 
 
 ## 👨‍🏫 Teacher's Role: 
 
-Play the TTS dialogues. 
+1. Play the TTS dialogues. 
 
-The teacher creates a Google Drive to collect recording. - Students drop down recording files via QR code.
+2. The teacher creates a Google Drive to collect recording.
 
-Later, the class reviews the recordings together.
+3. Later, the class reviews the recordings together.
 
 
 ## [Romeo & Juliet dialogue]
@@ -110,43 +110,44 @@ Discuss how the characters’ emotions are conveyed through tone and intonation.
 ## 👦👧 Students' Role:
 
 
-Students record their role-play, upload the files via a Google Form.
+1. Students drop down recording files via QR code.
+2. Students record their role-play, upload the files via a Google Form.
 
-
-
+   
 ## 2. 🎙 Speaking Activity (25 minutes)
    
 ## (1) Role-Playing Activity: Recreate the Scene (15 minutes)
 
 🎯 Objective: Enhance speaking skills and practice expression through role-playing.
 
+
 ## 📱 Activity:
 
-Students use a recording app (e.g., Gradio Audio Recorder) to record their own dialogue as Romeo and Juliet.
+1. Students use a recording app (e.g., Gradio Audio Recorder) to record their own dialogue as Romeo and Juliet.
 
-Encourage them to mimic the tone and emotion from the TTS examples.
+2. Encourage them to mimic the tone and emotion from the TTS examples.
 
 
 ## 👨‍🏫 Teacher's Role:
 
-Assign roles and help students practice lines.
+1. Assign roles and help students practice lines.
 
-Provide constructive feedback on pronunciation and intonation.
+2. Provide constructive feedback on pronunciation and intonation.
 
-Encourage students to act out the scene with expression and emotion.
+3. Encourage students to act out the scene with expression and emotion.
 
-Offer guidance on body language and facial expressions to enhance the performance.
+4. Offer guidance on body language and facial expressions to enhance the performance.
 
 
 ## 👦👧 Students' Role:
 
-Practice and record their role-play.
+1. Practice and record their role-play.
 
-Listen to their recordings and refine their delivery.
+2. Listen to their recordings and refine their delivery.
 
-Focus on improving fluency and confidence while speaking.
+3. Focus on improving fluency and confidence while speaking.
 
-Collaborate with peers to give and receive feedback on each other's performances.
+4. Collaborate with peers to give and receive feedback on each other's performances.
 
 
 
@@ -154,24 +155,26 @@ Collaborate with peers to give and receive feedback on each other's performances
 
 🎯 Objective: Reflect on speaking performance and improve further.
 
+
 ## 📱 Activity:
 
-Play back the recorded dialogues in class.
-Discuss areas for improvement and celebrate strong performances.
+1. Play back the recorded dialogues in class.
+
+2.. Discuss areas for improvement and celebrate strong performances.
 
 ## 👨‍🏫 Teacher's Role:
 
-The teacher generates a QR code and reviews it together with the class.
+1. The teacher generates a QR code and reviews it together with the class.
 
-The teacher and students share their opinions and provide feedback to one another.
+2. The teacher and students share their opinions and provide feedback to one another.
 
 ## 👦👧 Students' Role:
 
-Share their recordings with the class or in small groups, and actively reflect on the feedback they receive. 💞
+1. Share their recordings with the class or in small groups, and actively reflect on the feedback they receive. 💞
 
-Identify their strengths and areas for improvement, and use this insight to set clear. 
+2. Identify their strengths and areas for improvement, and use this insight to set clear. 
 
-Achievable goals for enhancing their speaking skills in future activities.
+3. Achievable goals for enhancing their speaking skills in future activities.
 
 ### Notes for Teachers
 
