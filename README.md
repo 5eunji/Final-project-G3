@@ -38,8 +38,7 @@ The lesson is based on the story "Romeo and Juliet."
 
 # 😊Teaching Procedure 
 
-Level: Intermediate, Middel school 3rd
-Time : 55 minutes in total
+Level: Intermediate, Middel school 3rd, Time : 55 minutes in total
 
 
 
