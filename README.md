@@ -48,7 +48,7 @@ The lesson is based on the story "Romeo and Juliet."
 🎯 Objective: Improve listening comprehension and engagement.
 
 
-📱 Activity:
+## 📱 Activity:
 
 Play a TTS-generated narration of the story using TTS.
 
@@ -56,7 +56,7 @@ Provide a handout with comprehension questions for students to answer as they li
 
 
 
-👨‍🏫 Teacher's Role:
+## 👨‍🏫 Teacher's Role:
 
 Play the TTS narration.
 
@@ -64,7 +64,7 @@ Pause after each section to ask comprehension questions and ensure understanding
 
 
 
-👦👧 Students' Role:
+## 👦👧 Students' Role:
 
 Listen actively and complete the comprehension questions.😊
 
@@ -75,13 +75,13 @@ Listen actively and complete the comprehension questions.😊
 🎯 Objective: Understand the dialogue between Romeo and Juliet through TTS.
 
 
-📱 Activity:
+## 📱 Activity:
 
 Use TTS to play dialogue between Romeo and Juliet.
 Focus on tone, intonation, and expression.
 
 
-👨‍🏫 Teacher's Role: 
+## 👨‍🏫 Teacher's Role: 
 
 Play the TTS dialogues. 
 
@@ -109,7 +109,7 @@ Juliet: Then let’s marry in secret and prove that love can conquer anything.
 Discuss how the characters’ emotions are conveyed through tone and intonation.
 
 
-👦👧 Students' Role:
+## 👦👧 Students' Role:
 
 
 Students record their role-play, upload the files via a Google Form.
@@ -122,14 +122,14 @@ Students record their role-play, upload the files via a Google Form.
 
 🎯 Objective: Enhance speaking skills and practice expression through role-playing.
 
-📱 Activity:
+## 📱 Activity:
 
 Students use a recording app (e.g., Gradio Audio Recorder) to record their own dialogue as Romeo and Juliet.
 
 Encourage them to mimic the tone and emotion from the TTS examples.
 
 
-👨‍🏫 Teacher's Role:
+## 👨‍🏫 Teacher's Role:
 
 Assign roles and help students practice lines.
 
@@ -140,7 +140,7 @@ Encourage students to act out the scene with expression and emotion.
 Offer guidance on body language and facial expressions to enhance the performance.
 
 
-👦👧 Students' Role:
+## 👦👧 Students' Role:
 
 Practice and record their role-play.
 
@@ -151,24 +151,25 @@ Focus on improving fluency and confidence while speaking.
 Collaborate with peers to give and receive feedback on each other's performances.
 
 
+
 ## (2) Feedback and Sharing (10 minutes)
 
 🎯 Objective: Reflect on speaking performance and improve further.
 
-📱 Activity:
+## 📱 Activity:
 
 Play back the recorded dialogues in class.
 Discuss areas for improvement and celebrate strong performances.
 
-👨‍🏫 Teacher's Role:
+## 👨‍🏫 Teacher's Role:
 
 The teacher generates a QR code and reviews it together with the class.
 
 The teacher and students share their opinions and provide feedback to one another.
 
-👦👧 Students' Role:
+## 👦👧 Students' Role:
 
-Share their recordings with the class or in small groups, and actively reflect on the feedback they receive. 
+Share their recordings with the class or in small groups, and actively reflect on the feedback they receive. 💞
 
 Identify their strengths and areas for improvement, and use this insight to set clear. 
 
