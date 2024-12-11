@@ -165,9 +165,11 @@ The teacher and students share their opinions and provide feedback to one anothe
 
 👦👧 Students' Role:
 
-Share recordings and reflect on feedback.
+Share their recordings with the class or in small groups, and actively reflect on the feedback they receive. 
 
-Set goals for future speaking improvement.
+Identify their strengths and areas for improvement, and use this insight to set clear. 
+
+Achievable goals for enhancing their speaking skills in future activities.
 
 ### Notes for Teachers
 
