@@ -9,6 +9,17 @@
 This lesson plan is designed for middle school students and focuses on enhancing Listening and speaking skills through interactive activities using Gradio and Python coding. 
 The lesson is based on the story "Romeo and Juliet."
 
+## Project Summary (개요)
+
+1. Use TTS tools to revisit previously studied texts, focusing on accurately understanding the flow and detailed nuances of the story.
+
+2. Listen to dialogues from Romeo and Juliet to learn intonation, emotional expression, and the natural progression of lines.
+
+3. Practice dialogues with a partner, record them, and review to refine pronunciation, intonation, and natural expression.
+
+4. Upload the recordings to a Google Sheet and share them via QR codes to exchange constructive feedback with peers.
+
+5. Participate in team activities to build collaboration and feedback skills, while recognizing outstanding teams to foster a sense of achievement and motivation.
 
 ## Objectives
 
